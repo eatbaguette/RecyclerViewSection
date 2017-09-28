@@ -1,6 +1,11 @@
 # 概要
 ViewTypeで表示するセルを分けるRecyclerViewの最小限の構成  
 
+# 詳細
+SectionGroup: それぞれのSectionを管理する  
+HeaderSection: ヘッダーを持つSection  
+NoHeaderSection: ヘッダーを持たないSection  
+
 # 手順
 
 ## Section
